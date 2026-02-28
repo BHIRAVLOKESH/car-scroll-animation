@@ -7,7 +7,7 @@
 
 ### 🚀 Links
 - **GitHub Repository:** [https://github.com/BHIRAVLOKESH/car-scroll-animation](https://github.com/BHIRAVLOKESH/car-scroll-animation)
-- **Live Demo:** [https://car-scroll-animation-five-chi.vercel.app/](https://car-scroll-animation-five-chi.vercel.app/) (Or your deployed URL)
+- **Live Demo:** [https://lucent-maamoul-182ba7.netlify.app](https://lucent-maamoul-182ba7.netlify.app)
 
 ---
 
