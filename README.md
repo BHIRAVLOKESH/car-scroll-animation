@@ -1,8 +1,6 @@
 # Premium Scroll-Driven Hero Animation
 
-**Candidate Name:** Kallakuri Bhirav Lokesh
-**Submission Date:** 28 February, 2026
-
+Made by Bhirav Lokesh Kalllakuri
 ---
 
 ### 🚀 Links
@@ -60,4 +58,4 @@ This project implements a high-end, scroll-driven hero section that meets all th
 
 Thank you for reviewing my submission.
 
-— Kallakuri Bhirav Lokesh
+— Bhirav Lokesh Kallakuri
