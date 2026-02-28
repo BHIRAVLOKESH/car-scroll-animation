@@ -5,7 +5,6 @@ Made by Bhirav Lokesh Kalllakuri
 
 ### 🚀 Links
 - **GitHub Repository:** [https://github.com/BHIRAVLOKESH/car-scroll-animation](https://github.com/BHIRAVLOKESH/car-scroll-animation)
-- **Live Demo:** [https://lucent-maamoul-182ba7.netlify.app](https://lucent-maamoul-182ba7.netlify.app)
 
 ---
 
