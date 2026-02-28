@@ -9,7 +9,7 @@
 ### Live Demo
 
 **Live URL:** https://car-scroll-animation.vercel.app/  
-**GitHub Repository:** https://github.com/devgantabya/car-scroll-animation.git
+**GitHub Repository:** https://github.com/BHIRAVLOKESH/car-scroll-animation.git
 
 ---
 
